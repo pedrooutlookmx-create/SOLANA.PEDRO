@@ -13,7 +13,7 @@ Al finalizar este módulo podrás:
 
 ## 1.1 ¿Qué es Solana?
 
-Solana es una blockchain de alto rendimiento capaz de procesar más de **65,000 transacciones por segundo (TPS)** con tiempos de confirmación de menos de 400ms y comisiones de fracción de centavo.
+Solana es una blockchain de alto rendimiento capaz de procesar más de **65,000 transacciones por segundo (TPS)** en condiciones teóricas, con tiempos de confirmación de menos de 400ms y comisiones de fracción de centavo. (El rendimiento real en mainnet varía según la carga de la red.)
 
 ### Características clave:
 - **Proof of History (PoH)**: mecanismo de consenso único de Solana
