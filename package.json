@@ -1,0 +1,26 @@
+{
+  "name": "solana-pedro-curso",
+  "version": "1.0.0",
+  "description": "Repositorio del Curso de Desarrollo en Solana",
+  "scripts": {
+    "airdrop": "solana airdrop 2",
+    "balance": "solana balance"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "@solana/spl-token": "^0.4.9"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "@types/node": "^20.12.12"
+  },
+  "keywords": [
+    "solana",
+    "blockchain",
+    "web3",
+    "curso",
+    "spanish"
+  ],
+  "author": "Pedro",
+  "license": "MIT"
+}
